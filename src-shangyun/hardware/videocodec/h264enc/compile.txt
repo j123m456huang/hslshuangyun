@@ -1,0 +1,92 @@
+hsl_hw_h264_isp.cpp:32:40: error: a brace-enclosed initializer is not allowed here before '{' token
+hsl_hw_h264_isp.cpp:48:1: error: invalid in-class initialization of static data member of non-integral type 'unsigned char [15][15]'
+hsl_hw_h264_isp.cpp:50:37: error: a brace-enclosed initializer is not allowed here before '{' token
+hsl_hw_h264_isp.cpp:66:1: error: invalid in-class initialization of static data member of non-integral type 'unsigned char [15][15]'
+hsl_hw_h264_isp.cpp:68:1: error: extra qualification 'hsl_hw_h264_isp::' on member 'hsl_hw_h264_isp' [-fpermissive]
+hsl_hw_h264_isp.cpp:68:1: error: 'hsl_hw_h264_isp::hsl_hw_h264_isp()' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:10:2: error: with 'hsl_hw_h264_isp::hsl_hw_h264_isp()'
+hsl_hw_h264_isp.cpp:71:1: error: extra qualification 'hsl_hw_h264_isp::' on member 'hsl_hw_h264_isp' [-fpermissive]
+hsl_hw_h264_isp.cpp:71:1: error: 'hsl_hw_h264_isp::~hsl_hw_h264_isp()' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:11:2: error: with 'hsl_hw_h264_isp::~hsl_hw_h264_isp()'
+hsl_hw_h264_isp.cpp:75:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'init' [-fpermissive]
+hsl_hw_h264_isp.cpp:75:5: error: 'int hsl_hw_h264_isp::init()' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:13:6: error: with 'int hsl_hw_h264_isp::init()'
+hsl_hw_h264_isp.cpp:80:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'close' [-fpermissive]
+hsl_hw_h264_isp.cpp:80:5: error: 'int hsl_hw_h264_isp::close()' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:15:6: error: with 'int hsl_hw_h264_isp::close()'
+hsl_hw_h264_isp.cpp:85:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'start' [-fpermissive]
+hsl_hw_h264_isp.cpp:85:5: error: 'int hsl_hw_h264_isp::start()' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:14:6: error: with 'int hsl_hw_h264_isp::start()'
+hsl_hw_h264_isp.cpp:89:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'ioctl' [-fpermissive]
+hsl_hw_h264_isp.cpp:94:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'set_brightness' [-fpermissive]
+hsl_hw_h264_isp.cpp:94:5: error: 'int hsl_hw_h264_isp::set_brightness(int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:17:6: error: with 'int hsl_hw_h264_isp::set_brightness(int)'
+hsl_hw_h264_isp.cpp:99:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'set_hue' [-fpermissive]
+hsl_hw_h264_isp.cpp:99:5: error: 'int hsl_hw_h264_isp::set_hue(int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:18:6: error: with 'int hsl_hw_h264_isp::set_hue(int)'
+hsl_hw_h264_isp.cpp:104:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'set_saturation' [-fpermissive]
+hsl_hw_h264_isp.cpp:104:5: error: 'int hsl_hw_h264_isp::set_saturation(int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:19:6: error: with 'int hsl_hw_h264_isp::set_saturation(int)'
+hsl_hw_h264_isp.cpp:109:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'set_contrast' [-fpermissive]
+hsl_hw_h264_isp.cpp:109:5: error: 'int hsl_hw_h264_isp::set_contrast(int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:20:6: error: with 'int hsl_hw_h264_isp::set_contrast(int)'
+hsl_hw_h264_isp.cpp:114:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'set_video_mode' [-fpermissive]
+hsl_hw_h264_isp.cpp:114:5: error: 'int hsl_hw_h264_isp::set_video_mode(int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:21:6: error: with 'int hsl_hw_h264_isp::set_video_mode(int)'
+hsl_hw_h264_isp.cpp:216:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'set_video_env' [-fpermissive]
+hsl_hw_h264_isp.cpp:216:5: error: 'int hsl_hw_h264_isp::set_video_env(int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:22:6: error: with 'int hsl_hw_h264_isp::set_video_env(int)'
+hsl_hw_h264_isp.cpp:237:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'isp_start' [-fpermissive]
+hsl_hw_h264_isp.cpp:237:5: error: 'int hsl_hw_h264_isp::isp_start()' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:23:6: error: with 'int hsl_hw_h264_isp::isp_start()'
+hsl_hw_h264_isp.cpp:254:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'H264AeConfig' [-fpermissive]
+hsl_hw_h264_isp.cpp:254:5: error: 'int hsl_hw_h264_isp::H264AeConfig(int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:29:6: error: with 'int hsl_hw_h264_isp::H264AeConfig(int)'
+hsl_hw_h264_isp.cpp:289:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'isp_denoise' [-fpermissive]
+hsl_hw_h264_isp.cpp:289:5: error: 'int hsl_hw_h264_isp::isp_denoise(int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:24:6: error: with 'int hsl_hw_h264_isp::isp_denoise(int)'
+hsl_hw_h264_isp.cpp:315:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'isp_get_eva' [-fpermissive]
+hsl_hw_h264_isp.cpp:315:5: error: 'int hsl_hw_h264_isp::isp_get_eva()' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:25:6: error: with 'int hsl_hw_h264_isp::isp_get_eva()'
+hsl_hw_h264_isp.cpp:323:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'isp_anti_flick' [-fpermissive]
+hsl_hw_h264_isp.cpp:323:5: error: 'int hsl_hw_h264_isp::isp_anti_flick(int, int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:26:6: error: with 'int hsl_hw_h264_isp::isp_anti_flick(int, int)'
+hsl_hw_h264_isp.cpp:346:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'isp_ircut_switch' [-fpermissive]
+hsl_hw_h264_isp.cpp:346:5: error: 'int hsl_hw_h264_isp::isp_ircut_switch(int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:27:6: error: with 'int hsl_hw_h264_isp::isp_ircut_switch(int)'
+hsl_hw_h264_isp.cpp:383:5: error: extra qualification 'hsl_hw_h264_isp::' on member 'isp_set_framerate' [-fpermissive]
+hsl_hw_h264_isp.cpp:383:5: error: 'int hsl_hw_h264_isp::isp_set_framerate(char, int)' cannot be overloaded
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h:28:6: error: with 'int hsl_hw_h264_isp::isp_set_framerate(char, int)'
+hsl_hw_h264_isp.cpp:416:1: error: expected '}' at end of input
+In file included from hsl_hw_h264_isp.cpp:27:0:
+hsl_hw_h264_isp.h: In member function 'int hsl_hw_h264_isp::H264AeConfig(int)':
+hsl_hw_h264_isp.h:31:1: error: expected primary-expression before 'public'
+hsl_hw_h264_isp.h:31:1: error: expected ';' before 'public'
+hsl_hw_h264_isp.h:34:1: error: expected primary-expression before 'public'
+hsl_hw_h264_isp.h:34:1: error: expected ';' before 'public'
+hsl_hw_h264_isp.h:38:7: warning: unused variable 'SubStreamChangeFrate' [-Wunused-variable]
+hsl_hw_h264_isp.h:39:7: warning: unused variable 'Mainframerate' [-Wunused-variable]
+hsl_hw_h264_isp.h:40:1: warning: no return statement in function returning non-void [-Wreturn-type]
+hsl_hw_h264_isp.cpp: In member function 'int hsl_hw_h264_isp::isp_denoise(int)':
+hsl_hw_h264_isp.cpp:291:26: warning: unused variable 'dis_3d' [-Wunused-variable]
+hsl_hw_h264_isp.cpp: At global scope:
+hsl_hw_h264_isp.cpp:416:1: error: expected unqualified-id at end of input
+make: *** [hsl_hw_h264_isp.o] Error 1
